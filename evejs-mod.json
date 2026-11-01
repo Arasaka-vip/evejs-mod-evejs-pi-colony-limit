@@ -1,0 +1,40 @@
+{
+  "author": {
+    "id": "au-mvv4t2zz2c8v",
+    "keyId": "c80dd20491a6",
+    "name": "Nephelam"
+  },
+  "category": "玩法",
+  "changelog": "行星殖民地6个上限解除，可以无限殖民行星",
+  "conflicts": [],
+  "delisted": false,
+  "description": "解除行星开发（PI）的殖民地上限：把星际殖民整合学的有效等级提升到 999，允许最多 1000 个殖民地。只在服务端内存里补技能快照，不改客户端文件、不改数据库。",
+  "displayName": "行星开发殖民地上限解除",
+  "downloadUrls": [
+    {
+      "mirror": "github",
+      "priority": 1,
+      "url": "https://github.com/Arasaka-vip/evejs-mod-evejs-pi-colony-limit/releases/download/v1.0.0/evejs-pi-colony-limit-1.0.0.zip"
+    }
+  ],
+  "evejsVersions": [
+    "261028.x"
+  ],
+  "featured": false,
+  "highlights": [],
+  "history": [],
+  "id": "evejs-pi-colony-limit",
+  "publishedAt": "2026-11-01",
+  "readme": [
+    "把行星开发（PI）的**殖民地数量上限**从原版 6 个放开到 1000 个（实际等于“不限制”）。"
+  ],
+  "repo": "https://github.com/Arasaka-vip/evejs-mod-evejs-pi-colony-limit",
+  "requiresRestart": true,
+  "sha256": "8d7ca281d75f0f30229e7d94f0a3d83f87762a492a11d8e8add7aba940d23dfd",
+  "sizeBytes": 11344,
+  "tags": [
+    "行星开发",
+    "殖民地"
+  ],
+  "version": "1.0.0"
+}
